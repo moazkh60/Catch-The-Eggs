@@ -1,4 +1,4 @@
-# Project Title
+# Catch The Eggs
 
 Catch the Eggs is game developed using JAVA Swing. In the game eggs are dropping from the top and you have to catch them in a tray. The game is excellent for learning purposes.
 
